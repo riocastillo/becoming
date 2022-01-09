@@ -2,7 +2,7 @@
 
 ## Notes
 _App will be ready to launch around the end of Febuary 2022._ 
-
+ 
 ## Description
 "becoming" is a webapp for LGBTQ+ people trying to find their na(me) or pronouns through testing. I created this app because changing your name and/or pronouns is a beautiful affirmation for most people, but sometimes it can be a very dangerous step to take. On average, most trans people don't live past 30 years, so this app is an attempt to try to prevent that for younger trans (and queer) people, ___especially those who may have less safety in testing out new names or new pronouns.**___
 
