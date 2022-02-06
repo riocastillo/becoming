@@ -10,7 +10,7 @@ _App will be ready to launch around the end of Febuary 2022._
 Users can sign in or sign up for a profile that stores a list of their names and/or pronouns they are considering using. `When a user enters the name/pronoun to "try out", the app will generate writing examples where that name and/or pronoun is used.` If the user feels it looks "right," they can star those names/pronouns, or cross others out. If the user is inbetween names (like I once was), and has trusted people - they can tally up the votes for which names their friends prefer, and make an informed decision afterwards. 
 
 ## How it'll be made
-> Made using SCSS, Javascript, Node.js, JSON, Express, EJS, MongoDB, and User Authentification using passport.
+> Made using SCSS, Javascript, Node.js, JSON, Express, EJS, and User Authentification using passport.
 
 
 
